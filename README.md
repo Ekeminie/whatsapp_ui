@@ -14,7 +14,7 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 
-To get the written tutorial for this application please use this link
+To get the written tutorial for this application please [Click Here](https://codesource.io/build-a-whatsapp-ui-clone-application-with-flutter/)
 
 ![Article Image](https://codesource.io/wp-content/uploads/2020/11/Group-4.png)
 
